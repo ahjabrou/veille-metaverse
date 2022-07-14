@@ -1,0 +1,36 @@
+body{
+    font-family: Impact;
+    text-align: justify;
+    background-color: rgba(216, 99, 53, 0.932);
+    background-image: url(621ccbd11821d.1655214917.jpg);
+    background-blend-mode: lighten;
+}
+h1{
+    text-align: center;
+    color: rgb(18, 88, 18);
+    border-radius: 25px;
+    border-style: outset;
+    border-color: rgb(76, 112, 28);
+    padding: 40px;
+    margin: auto;
+    width: 200px;
+}
+span{
+    color:rgb(100, 194, 164);
+    border-style: groove;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+img{
+    width: 450px;
+    height: 280px;
+}
+h3{
+    color:rgb(49, 144, 222);
+    margin-left: 25px;
+    text-decoration: underline;
+}
+h4{
+    color:rgb(94, 19, 38);
+    margin-left: 50px;
+}
